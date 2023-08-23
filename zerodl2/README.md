@@ -1,5 +1,8 @@
 # ゼロから作るDeepLearning2 自然言語処理偏
 
+- 公式ソースコード
+    - https://github.com/oreilly-japan/deep-learning-from-scratch-2/tree/master
+
 1. ニューラルネットワークの復習
 2. 自然言語処理の単語の分散表現
 3. word2vec
