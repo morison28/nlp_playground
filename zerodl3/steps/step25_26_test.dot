@@ -1,0 +1,9 @@
+digraph g {
+140030593183232 [label="() float64", color=orange, style=filled]
+140030593180736 [label="Add", color=lightblue, style=filled, shape=box]
+140031282658368 -> 140030593180736
+140031282657600 -> 140030593180736
+140030593180736 -> 140030593183232
+140031282658368 [label="x0: () float64", color=orange, style=filled]
+140031282657600 [label="x1: () float64", color=orange, style=filled]
+}
