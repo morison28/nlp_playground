@@ -1,4 +1,4 @@
-# ゼロから作るDeepLearning2 自然言語処理偏
+# ゼロから作るDeepLearning2 自然言語処理編
 
 - 公式ソースコード
     - https://github.com/oreilly-japan/deep-learning-from-scratch-2/tree/master
