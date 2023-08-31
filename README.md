@@ -10,6 +10,7 @@
 - Python自然言語処理101本ノック (`nlp_101_knock/`)
 - Pytorch&深層学習プログラミング (`pytorch_intro/`)
 
+## tmp memo
 
 ## 自然言語処理についてメモするところ
 
